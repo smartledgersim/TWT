@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/They Were Taken.icon.png-40c7ad5ba4e9856df0fb5bbcad210366.stex"
+path="res://.import/They Were Taken.icon.png-a042cb308ef31da00f2c67e4209541e3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://They Were Taken.icon.png"
-dest_files=[ "res://.import/They Were Taken.icon.png-40c7ad5ba4e9856df0fb5bbcad210366.stex" ]
+source_file="res://Exports/HTML5/They Were Taken.icon.png"
+dest_files=[ "res://.import/They Were Taken.icon.png-a042cb308ef31da00f2c67e4209541e3.stex" ]
 
 [params]
 
